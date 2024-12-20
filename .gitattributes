@@ -1,0 +1,4 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+S:/Projects/todolist filter=lfs diff=lfs merge=lfs -text
+S:/Projects/todolist/node_modules/@next/swc-win32-x64-msvc filter=lfs diff=lfs merge=lfs -text
+public/node_modules/@next/swc-win32-x64-msvc/*.node filter=lfs diff=lfs merge=lfs -text
