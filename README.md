@@ -1,3 +1,30 @@
+# ***Todo List using React/Next.js***
+
+
+
+![Thumbnail](https://github.com/user-attachments/assets/c46345b8-804b-4737-bb69-c2aa9fcaeade)
+
+## INTRODUCATION
+This project is a simple Todo List application built with React. It allows users to add tasks with a title and description through a form, and these tasks are displayed on the screen. Users can also delete tasks by clicking a delete button associated with each task.
+
+The project demonstrates the fundamental concepts of **React, including component creation, state management, and event handling**. It's an excellent starting point for beginners learning React or anyone looking to build a basic task management application.
+
+## LINK DEMO
+You can access a live demo of this Todo List app by following this link: https://sarangtodolist.netlify.app
+
+## FEATURES
+1. Add Tasks: Users can enter task titles and descriptions through a form and add them to the list.
+2. Display Tasks: Added tasks are displayed on the screen with their titles and descriptions.
+3. Delete Tasks: Users can remove tasks by clicking the delete button associated with each task.
+4. Responsive Design: The application is responsive and works well on various screen sizes.
+
+## TECHNOLOGY USED
+* React: The core library used for building the user interface and managing state.
+* HTML/TailWind: Used for structuring the app and styling the components.
+* JavaScript: Used for logic and event handling.<br/>
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
