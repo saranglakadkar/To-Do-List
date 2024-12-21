@@ -6,8 +6,7 @@
 
 ## INTRODUCATION
 This project is a simple Todo List application built with React. It allows users to add tasks with a title and description through a form, and these tasks are displayed on the screen. Users can also delete tasks by clicking a delete button associated with each task.
-
-The project demonstrates the fundamental concepts of **React, including component creation, state management, and event handling**. It's an excellent starting point for beginners learning React or anyone looking to build a basic task management application.
+The project demonstrates the fundamental concepts of **React, including component creation, state management, and event handling**. 
 
 ## LINK DEMO
 You can access a live demo of this Todo List app by following this link: https://sarangtodolist.netlify.app
